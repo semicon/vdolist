@@ -17242,6 +17242,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.video,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.system_object.prototype.acts.SetVar,
+	cr.plugins_.video.prototype.acts.SetVisible,
+	cr.system_object.prototype.cnds.Else,
 	cr.plugins_.Button.prototype.cnds.OnClicked,
 	cr.plugins_.video.prototype.acts.Pause,
 	cr.system_object.prototype.acts.AddVar,
