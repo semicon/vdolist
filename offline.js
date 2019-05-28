@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1559000452,
+	"version": 1559036670,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,9 @@
 		"vdo2.mp4",
 		"vdo2.webm",
 		"vdo3.mp4",
-		"vdo3.webm"
+		"vdo3.webm",
+		"vdo1.ogv",
+		"vdo2.ogv",
+		"vdo3.ogv"
 	]
 }
